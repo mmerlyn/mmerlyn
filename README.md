@@ -51,7 +51,7 @@ I'm a Computer Science graduate student with a strong foundation in full-stack w
   <img src="https://w1.pngwing.com/pngs/535/256/png-transparent-microservices-text-computer-software-line-circle-area-diagram-symmetry-organization-thumbnail.png" width="40"/>
 </p>
 
-### 🗃️ Data
+### 🛢️ Data
 `MySQL` `MongoDB` `PostgreSQL` `Redis` `ElasticSearch` `Apache Spark` `PySpark` `Apache Kafka` `TensorFlow`
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
