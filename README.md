@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 💻 Passionate Developer | Problem Solver | Tech Enthusiast  
 📬 mmakireddy8011@sdsu.edu
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
 I'm a Computer Science graduate student with a strong foundation in full-stack web development, API development, and cloud technologies. I enjoy building scalable web applications and solving real-world problems with elegant code and modern tools.
 
