@@ -51,7 +51,7 @@ I'm a Computer Science graduate student with a strong foundation in full-stack w
   <img src="https://www.svgrepo.com/show/354553/websocket.svg" width="40"/>
   
   <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" width="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIXjR1tL5ufOI859fqkYDpZDmN5PeG-48C9g&s" width="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIXjR1tL5ufOI859fqkYDpZDmN5PeG-48C9g&s" width="80"/>
 </p>
 
 **Databases:**  
