@@ -70,7 +70,7 @@ I'm a Computer Science graduate student with a strong foundation in full-stack w
   <img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://media.tekpon.com/2024/04/Vercel-Logo.webp" width="60"/>
+  <img src="https://w7.pngwing.com/pngs/436/888/png-transparent-vercel-hd-logo-thumbnail.png" width="40"/>
 </p>
 
 ### 🧰 Developer Tools
