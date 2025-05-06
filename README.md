@@ -35,7 +35,7 @@ I'm a Computer Science graduate student with a strong foundation in full-stack w
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg" width="40"/>
+  <img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2024/05/tailwindcss-1633184775.webp" width="40"/>
 </p>
 
 **Backend:**  
