@@ -82,26 +82,6 @@ I'm a Computer Science graduate student with a strong foundation in full-stack w
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" width="40"/>
 </p>
 
-
-
-## 📈 Projects
-
-🔹 **[DevConnect](https://github.com/mmerlyn/DevConnect)** – Social media for developers  
-Tech: React, ElasticSearch, GraphQL, NextAuth.js, MongoDB, WebSockets  
-> Fast, real-time updates, secure auth, and intelligent recommendations.
-
-🔹 **[Lilac](https://github.com/mmerlyn/lilac)** – E-commerce platform  
-Tech: React, Nest.js, TypeScript, Redis  
-> Microservices architecture, caching, and blazing-fast API performance.
-
-🔹 **[React-Resto App](https://github.com/mmerlyn/react-resto-app)** – Food ordering UI  
-Tech: React, Redux  
-> SPA with clean UI, efficient state management, and great performance.
-
-🔹 **[Sales Management System](https://github.com/mmerlyn/sales-management-system-for-farmers)**  
-Tech: PHP, MySQL  
-> Data-driven reporting for farmers to streamline sales and boost efficiency.
-
 ## 🏆 Achievements & Publications
 
 📖 Co-Author – *[Nitrogen Deficiency Detection in Paddy for Urea Fertilizer Management](https://uijrt.com/articles/v2/i7/UIJRTV2I70009.pdf)*  
