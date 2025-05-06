@@ -1,5 +1,4 @@
-## Hi there 👋
-
+# 👋 Hi, I'm Merlyn Mercylona!
 <!--
 **mmerlyn/mmerlyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Merlyn Mercylona!
 
 🎓 Master’s Student in Computer Science at San Diego State University  
 💻 Passionate Developer | Problem Solver | Tech Enthusiast  
@@ -27,17 +25,17 @@ I'm a Computer Science graduate student with a strong foundation in full-stack w
 ## 🛠️ Tech Stack
 
 **Frontend:**  
-`React` `Next.js` `JavaScript (ES6+)` `TypeScript` `HTML` `CSS` `Redux` ``TailwindCSS
+`React` `Next.js` `JavaScript (ES6+)` `TypeScript` `HTML` `CSS` `Redux` `TailwindCSS`
 ### 💻 Frontend
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://assets.vercel.com/image/upload/v1662130559/front/favicon/vercel/nextjs-icon.svg" width="40"/>
+  <img src="https://static.cdnlogo.com/logos/n/80/next-js.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+  <img src="https://static.cdnlogo.com/logos/t/69/tailwind-css.svg" width="40"/>
 </p>
 
 **Backend:**  
@@ -48,9 +46,10 @@ I'm a Computer Science graduate student with a strong foundation in full-stack w
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Rest_API_Icon.svg" width="40"/>
+  
   <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" width="40"/>
 </p>
 
