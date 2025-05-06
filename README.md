@@ -46,11 +46,13 @@ I'm a Computer Science graduate student with a strong foundation in full-stack w
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <img src="https://www.svgrepo.com/show/303300/api.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40"/>
+  <img src="https://www.svgrepo.com/show/354553/websocket.svg" width="40"/>
   
   <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" width="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microservice-icon.svg" width="40"/>
 </p>
 
 **Databases:**  
@@ -72,10 +74,10 @@ I'm a Computer Science graduate student with a strong foundation in full-stack w
 `AWS` `GCP` `Docker` `Vercel`
 ### ☁️ Cloud
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+  <img src="https://static.cdnlogo.com/logos/a/74/aws.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://assets.vercel.com/image/upload/v1662130559/front/favicon/vercel/nextjs-icon.svg" width="40"/>
+  <img src="https://static.cdnlogo.com/logos/v/35/vercel.svg" width="40"/>
 </p>
 
 **Tools & Platforms:**  
