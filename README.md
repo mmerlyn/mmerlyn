@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 🎓 Master’s Student in Computer Science at San Diego State University  
 💻 Passionate Developer | Problem Solver | Tech Enthusiast  
-📬 mmakireddy8011@sdsu.edu
+📩 mmakireddy8011@sdsu.edu
 
 ## 👩‍💻 About Me
 
@@ -88,7 +88,7 @@ I'm a Computer Science graduate student with a strong foundation in full-stack w
 📖 Co-Author – *[Nitrogen Deficiency Detection in Paddy for Urea Fertilizer Management](https://uijrt.com/articles/v2/i7/UIJRTV2I70009.pdf)*  
 🏅 2nd Prize – *Analysis of Tomato Prices in Karnataka Using Machine Learning*, BMSIT CSE
 
-## 📫 Let's Connect!
+## 📩 Let's Connect!
 
 Feel free to check out my work and get in touch:
 
