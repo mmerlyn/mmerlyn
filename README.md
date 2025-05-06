@@ -26,55 +26,68 @@ I'm a Computer Science graduate student with a strong foundation in full-stack w
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-`Python` `JavaScript (ES6+)` `TypeScript` `HTML` `CSS`
-
-**Frameworks & Libraries:**  
-`React` `Next.js` `Redux` `Node.js` `Express.js` `Tailwind CSS` `TensorFlow` `PySpark`
-
-**Databases:**  
-`MySQL` `PostgreSQL` `MongoDB` `Redis` `ElasticSearch`
-
-**Tools & Platforms:**  
-`Git` `GitHub` `Docker` `AWS` `GCP` `Vercel` `Firebase` `Postman` `Vim`
-
-## 🛠️ My Tech Stack
-
+**Frontend:**  
+`React` `Next.js` `JavaScript (ES6+)` `TypeScript` `HTML` `CSS` `Redux` ``TailwindCSS
+### 💻 Frontend
 <p align="left">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://assets.vercel.com/image/upload/v1662130559/front/favicon/vercel/nextjs-icon.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://assets.vercel.com/image/upload/v1662130559/front/favicon/vercel/nextjs-icon.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/>
-
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" style="background-color:white;"/>
-
-  <!-- APIs / GraphQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40"/>
-
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
-
-  <!-- DevOps / Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://www.gstatic.com/devrel-devsite/prod/v7b9e51e0a6d6eebd1c2a163de88e0e220571f9fd57aef40fb1f9434bba15e9e0/cloud/images/favicons/onecloud/favicon.ico" width="40"/>
-  <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
 </p>
 
+**Backend:**  
+`Node.js` `Express.js` `Python` `Go` `RESTful APIs` `FastAPI` `GraphQL` `WebSockets` `Firebase` `Microservices`
+### 🔧 Backend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Rest_API_Icon.svg" width="40"/>
+  <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" width="40"/>
+</p>
+
+**Databases:**  
+`MySQL` `MongoDB` `PostgreSQL` `Redis` `ElasticSearch` `Apache Spark` `PySpark` `Apache Kafka` `TensorFlow`
+### 🗃️ Data
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+</p>
+
+
+**Cloud:**
+`AWS` `GCP` `Docker` `Vercel`
+### ☁️ Cloud
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://assets.vercel.com/image/upload/v1662130559/front/favicon/vercel/nextjs-icon.svg" width="40"/>
+</p>
+
+**Tools & Platforms:**  
+`Git` `GitHub` `Docker` `Postman` `Vim`
+### 🧰 Developer Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" width="40"/>
+</p>
 
 
 
