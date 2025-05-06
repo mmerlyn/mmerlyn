@@ -51,7 +51,7 @@ I'm a Computer Science graduate student with a strong foundation in full-stack w
   <img src="https://www.svgrepo.com/show/354553/websocket.svg" width="40"/>
   
   <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" width="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIXjR1tL5ufOI859fqkYDpZDmN5PeG-48C9g&s" width="80"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIXjR1tL5ufOI859fqkYDpZDmN5PeG-48C9g&s" width="60"/>
 </p>
 
 **Databases:**  
@@ -63,8 +63,8 @@ I'm a Computer Science graduate student with a strong foundation in full-stack w
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="40"/>
+  <img src="https://icon2.cleanpng.com/20180525/wls/avqkc2h5g.webp" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
 </p>
 
@@ -73,10 +73,10 @@ I'm a Computer Science graduate student with a strong foundation in full-stack w
 `AWS` `GCP` `Docker` `Vercel`
 ### ☁️ Cloud
 <p align="left">
-  <img src="https://static.cdnlogo.com/logos/a/74/aws.svg" width="40"/>
+  <img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://static.cdnlogo.com/logos/v/35/vercel.svg" width="40"/>
+  <img src="https://media.tekpon.com/2024/04/Vercel-Logo.webp" width="40"/>
 </p>
 
 **Tools & Platforms:**  
