@@ -24,9 +24,8 @@ I'm a Computer Science graduate student with a strong foundation in full-stack w
 
 ## 🛠️ Tech Stack
 
-**Frontend:**  
-`React` `Next.js` `JavaScript (ES6+)` `TypeScript` `HTML` `CSS` `Redux` `TailwindCSS`
 ### 💻 Frontend
+`React` `Next.js` `JavaScript (ES6+)` `TypeScript` `HTML` `CSS` `Redux` `TailwindCSS`
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://static.cdnlogo.com/logos/n/80/next-js.svg" width="40" />
@@ -37,9 +36,8 @@ I'm a Computer Science graduate student with a strong foundation in full-stack w
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/>
 </p>
 
-**Backend:**  
-`Node.js` `Express.js` `Python` `Go` `RESTful APIs` `FastAPI` `GraphQL` `WebSockets` `Firebase` `Microservices`
 ### 🔧 Backend
+`Node.js` `Express.js` `Python` `Go` `RESTful APIs` `FastAPI` `GraphQL` `WebSockets` `Firebase` `Microservices`
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
@@ -49,14 +47,12 @@ I'm a Computer Science graduate student with a strong foundation in full-stack w
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40"/>
   <img src="https://www.svgrepo.com/show/354553/websocket.svg" width="40"/>
-  
   <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" width="40"/>
-  <img src="https://w1.pngwing.com/pngs/535/256/png-transparent-microservices-text-computer-software-line-circle-area-diagram-symmetry-organization-thumbnail.png" width="60"/>
+  <img src="https://w1.pngwing.com/pngs/535/256/png-transparent-microservices-text-computer-software-line-circle-area-diagram-symmetry-organization-thumbnail.png" width="40"/>
 </p>
 
-**Databases:**  
-`MySQL` `MongoDB` `PostgreSQL` `Redis` `ElasticSearch` `Apache Spark` `PySpark` `Apache Kafka` `TensorFlow`
 ### 🗃️ Data
+`MySQL` `MongoDB` `PostgreSQL` `Redis` `ElasticSearch` `Apache Spark` `PySpark` `Apache Kafka` `TensorFlow`
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
@@ -68,10 +64,8 @@ I'm a Computer Science graduate student with a strong foundation in full-stack w
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
 </p>
 
-
-**Cloud:**
-`AWS` `GCP` `Docker` `Vercel`
 ### ☁️ Cloud
+`AWS` `GCP` `Docker` `Vercel`
 <p align="left">
   <img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
@@ -79,9 +73,8 @@ I'm a Computer Science graduate student with a strong foundation in full-stack w
   <img src="https://media.tekpon.com/2024/04/Vercel-Logo.webp" width="60"/>
 </p>
 
-**Tools & Platforms:**  
-`Git` `GitHub` `Docker` `Postman` `Vim`
 ### 🧰 Developer Tools
+`Git` `GitHub` `Docker` `Postman` `Vim`
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
