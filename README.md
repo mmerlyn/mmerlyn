@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 🎓 Master’s Student in Computer Science at San Diego State University  
 💻 Passionate Developer | Problem Solver | Tech Enthusiast  
 📩 mmakireddy8011@sdsu.edu
+ 
+📖 [Read my technical blog posts on Medium](https://medium.com/@merlynmercylona)  
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/merlynmercylona/)
+
 
 ## 👩‍💻 About Me
 
