@@ -96,4 +96,6 @@ I'm a Computer Science graduate student with a strong foundation in full-stack w
 
 Feel free to check out my work and get in touch:
 
-[GitHub](https://github.com/mmerlyn) | Email: mmakireddy8011@sdsu.edu
+[GitHub](https://github.com/mmerlyn) | [Medium](https://medium.com/@merlynmercylona) | [LinkedIn](https://www.linkedin.com/in/merlynmercylona/) | 📩: mmakireddy8011@sdsu.edu 
+
+
