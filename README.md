@@ -1,4 +1,4 @@
-# <div align="center">🚀 Welcome to Merlyn's GitHub! 🚀</div>
+# <div align="center"> 👋 Hi, I am Merlyn </div>
 
 <div align="center">
   
