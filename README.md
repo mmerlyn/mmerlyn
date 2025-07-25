@@ -39,7 +39,7 @@
 <br/>California, USA
 </td>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/BE-Computer_Science-4C71F2?style=for-the-badge&logo=graduation-cap&logoColor=white"/> </br>
+<img src="https://img.shields.io/badge/BE-Computer_Science-A0204C?style=for-the-badge&logo=graduation-cap&logoColor=white"/> </br>
 <strong>🎓 Bachelor of Engineering in Computer Science</strong>
 <br/>Visvesvaraya Technological University
 <br/>CGPA: 3.8/4.0
