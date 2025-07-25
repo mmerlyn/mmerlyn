@@ -32,7 +32,7 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/MS-Computer_Science-00696B?style=for-the-badge&logo=graduation-cap&logoColor=white"/> </br>
+<img src="https://img.shields.io/badge/MS-Computer_Science-00CED1?style=for-the-badge&logo=graduation-cap&logoColor=white"/> </br>
 <strong>🎓 Master of Science in Computer Science (Aug 2024 – Present)</strong>
 <br/>San Diego State University
 <br/>CGPA: 3.52/4.0
