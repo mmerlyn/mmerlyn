@@ -25,25 +25,6 @@
 
 ---
 
-## 👩‍💻 About Me
-
-```javascript
-const merlyn = {
-  pronouns: "She/Her",
-  location: "California, USA 🌴",
-  education: "MSCS @ San Diego State University",
-  focus: [
-    "Data Structures & Algorithms ⛁",
-    "Full Stack Development 🌐",
-    "Cloud & DevOps ☁️",
-    "System Design ⚙️",
-  ],
-  funFact: "Built systems handling 2,000+ TPS! 🚀",
-};
-```
-
----
-
 ## 🎓 Education
 
 <div align="center">
