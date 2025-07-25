@@ -23,8 +23,6 @@
   </a>
 </div>
 
----
-
 ## 🎓 Education
 
 <div align="center">
@@ -202,5 +200,5 @@
 ---
 
 <div align="center">
-  ⭐ If you like my work, star my repos! ⭐
+  ⭐ <strong>If you like my work, star my repos!</strong> ⭐
 </div>
