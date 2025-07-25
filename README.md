@@ -176,31 +176,6 @@ const merlyn = {
 
 ---
 
-## 🏅 Certifications
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="100%">
-<img src="https://img.shields.io/badge/Commonwealth_Bank-Software_Engineer_Job_Simulation-00AB6C?style=for-the-badge&logo=bank&logoColor=white"/>
-<div align="left">
-◦ Extended backend functionality in C# (.NET) to support icons, using MongoDB, Postman, and Git<br/>
-◦ Modified the React/Redux frontend to display icons, working using TypeScript, NPM, and Git<br/>
-◦ Wrote Unit testing with xUnit for code coverage and reliability<br/>
-◦ Improved Git and GitHub workflows by submitting changes for team review and collaboration<br/>
-</div>
-<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/2sNmYuurxgpFYawco/xv8eSGu7nksKNiCQj_2sNmYuurxgpFYawco_dNxnR5myXSgsqRPdf_1751781846343_completion_certificate.pdf">
-<img src="https://img.shields.io/badge/View_Certificate-36BCF7?style=flat-square&logo=certificate&logoColor=white"/>
-</a>
-</td>
-</tr>
-</table>
-
-</div>
- 
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
