@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://codewithmerlyn.com/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-VISIT-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/%20Portfolio-VISIT-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/merlynmercylona/">
     <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
