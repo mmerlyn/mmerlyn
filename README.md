@@ -1,4 +1,4 @@
-## 📈 GitHub Stats
+## 📈 GitHub Stat
 
 <div align="center">
 <a href="https://github.com/mmerlyn">
