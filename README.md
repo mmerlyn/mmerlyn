@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="https://github.com/mmerlyn">
-  <img height="180em" align="center" src="https://mmerlyn-github-stats.vercel.app/api?username=mmerlyn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&v=3" />
+  <img height="180em" align="center" src="https://mmerlyn-github-stats.vercel.app/api?username=mmerlyn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&v=4" />
 </a>
 <br/><br/>
 <a href="https://github.com/mmerlyn">
