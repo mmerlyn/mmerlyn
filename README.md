@@ -10,4 +10,6 @@
 </a>
 <br/><br/>
 <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mmerlyn&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866&include_all_commits=true"/>
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=mmerlyn&style=for-the-badge&color=F85D7F&labelColor=0D1117&label=PROFILE+VIEWS"/>
 <br/><br/></div>
