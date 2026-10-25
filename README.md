@@ -1,7 +1,8 @@
 # Hi, I'm Merlyn 👋
 
-Software engineer building **backend systems and AI agents that can be tested and trusted**.
+Software engineer building **backend and distributed systems**, tested and measured.
 MS in Computer Science, San Diego State University (May 2026). Based in Jersey City, NJ, open to relocation.
+Open to **Software Engineer / SDE** roles (backend, full stack).
 
 🌐 [merlyn.site](https://merlyn.site/) · 💼 [LinkedIn](https://linkedin.com/in/merlynmercylona) · ✉️ merlyn.careers@gmail.com
 
@@ -9,10 +10,10 @@ MS in Computer Science, San Diego State University (May 2026). Based in Jersey C
 
 | Project | What it shows |
 |---|---|
-| [**Invoice Review Agent**](https://github.com/mmerlyn/invoice-review-agent) | Claude tool-use agent that checks supplier invoices, compared with rules and a single LLM call on 206 unseen test invoices: 68% → 95% → 100% accuracy, 0 wrong approvals, $0.0004 per invoice with a rules-first router |
-| [**DevConnect**](https://github.com/mmerlyn/dev-connect) | Real-time chat on Redis Streams across 3 Node.js gateways: ~2,000 concurrent WebSockets at 33ms p95, 0 failed sends when a gateway was killed |
 | [**ShopSphere**](https://github.com/mmerlyn/shop-sphere) | Microservices e-commerce on Kubernetes: search over 1M products at p95 49.6ms, 0 of 12,001 requests lost when a pod crashed |
-| **Turner.AI** (internship) | LLM advising platform where a rules engine makes every recommendation: incorrect recommendations cut from about 30% to under 2% with the Assistant Dean |
+| [**DevConnect**](https://github.com/mmerlyn/dev-connect) | Real-time chat on Redis Streams across 3 Node.js gateways: ~2,000 concurrent WebSockets at 33ms p95, 0 failed sends when a gateway was killed |
+| **Turner.AI** (internship, Sep 2025 – Apr 2026) | Full-stack advising platform with LLM features, where a rules engine makes every recommendation: incorrect recommendations cut from about 30% to under 2% with the Assistant Dean |
+| [**Invoice Review Agent**](https://github.com/mmerlyn/invoice-review-agent) | Claude tool-use agent that reviews supplier invoices: on 206 unseen synthetic test invoices it cut manual review from 41% (rules) to 10% with 0 wrong approvals, at $0.0004 per invoice |
 
 **Tech I use most:** Python · TypeScript · FastAPI · Node.js · PostgreSQL · Redis · Docker · Kubernetes · AWS · Claude API
 
