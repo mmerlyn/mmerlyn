@@ -1,7 +1,7 @@
 # Hi, I'm Merlyn 👋
 
 Software engineer building **backend and distributed systems**, tested and measured.
-MS in Computer Science, San Diego State University (May 2026). Based in Jersey City, NJ, open to relocation.
+MS in Computer Science, San Diego State University (May 2026). Based in New York City, open to relocation.
 Open to **Software Engineer / SDE** roles (backend, full stack).
 
 **Now:** Software Engineer at [Greenstand](https://greenstand.org/), working on Treetracker's top-priority milestone, moving its admin API (TypeScript, LoopBack 4, PostgreSQL) to Keycloak single sign-on, for a platform that pays tree growers for verified, living trees.
