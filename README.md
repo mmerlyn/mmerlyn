@@ -2,7 +2,7 @@
 
 **Software Engineer | Full Stack · Backend · Agentic AI | MSCS SDSU '26**
 
-I build reliable full-stack and backend systems and prove them with load and failure tests.
+I build reliable full-stack and backend systems, including LLM-powered features with guardrails and evals, and prove them with load and failure tests.
 MS in Computer Science, San Diego State University (May 2026). Based in New York City, NY, open to relocation.
 Open to **Software Engineer / SDE** roles (full stack, backend, AI-focused).
 
