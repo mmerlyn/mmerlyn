@@ -17,7 +17,7 @@ Open to **Software Engineer / SDE** roles (full stack, backend, AI-focused).
 | [**ShopSphere**](https://github.com/mmerlyn/shop-sphere) | Microservices e-commerce on Kubernetes: search over 1M products at p95 49.6ms, 0 of 12,001 requests lost when a pod crashed |
 | [**DevConnect**](https://github.com/mmerlyn/dev-connect) | Real-time chat on Redis Streams across 3 Node.js gateways: ~2,000 concurrent WebSockets at 33ms p95, 0 failed sends when a gateway was killed |
 | **Turner.AI** (internship, Sep 2025 – Apr 2026) | Full-stack advising platform designed for 8,000+ students, with LLM features, where a rules engine makes every recommendation: incorrect recommendations cut from about 30% to under 2% with the Assistant Dean |
-| [**Invoice Review Agent**](https://github.com/mmerlyn/invoice-review-agent) | Claude tool-use agent that reads supplier invoice PDFs and checks them: on 206 unseen synthetic test invoices it cut manual review from 41% (rules) to 10% with 0 wrong approvals, at $0.0004 per invoice |
+| [**Invoice Review Agent**](https://github.com/mmerlyn/invoice-review-agent) | Claude tool-use agent that reads supplier invoice PDFs and checks them: on 206 unseen synthetic test invoices it cut manual review from 38% (rules) to 10% with 0 wrong approvals, at $0.0006 per invoice including reading the PDF (63x cheaper than all-Opus) |
 
 **Tech I use most:** Python · TypeScript · FastAPI · Node.js · PostgreSQL · Redis · Docker · Kubernetes · AWS · Claude API
 
