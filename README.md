@@ -6,7 +6,7 @@ I build reliable backend and full-stack systems and prove them with load and fai
 MS in Computer Science, San Diego State University (May 2026). Based in New York City, NY, open to relocation.
 Open to **Software Engineer / SDE** roles (backend, full stack).
 
-**Now:** Software Engineer at [Greenstand](https://greenstand.org/), moving Treetracker's admin API (TypeScript, LoopBack 4, PostgreSQL) to Keycloak single sign-on.
+**Now:** Software Engineer at [Greenstand](https://greenstand.org/), building Treetracker's multi-tenant admin API (TypeScript, LoopBack 4, PostgreSQL): scoped 19 endpoints to each caller's organization, backed by 25 Jest tests.
 
 🌐 [merlyn.site](https://merlyn.site/) · 💼 [LinkedIn](https://linkedin.com/in/merlynmercylona) · ✉️ merlyn.careers@gmail.com
 
