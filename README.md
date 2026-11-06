@@ -28,6 +28,6 @@ Open to **Software Engineer / SDE** roles (backend, full stack).
 </a>
 <br/><br/>
 <a href="https://github.com/mmerlyn">
-  <img height="180em" align="center" src="https://mmerlyn-github-stats.vercel.app/api/top-langs/?username=mmerlyn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&count_private=true&include_all_commits=true&langs_count=8&hide=Jupyter%20Notebook&v=2" />
+  <img height="180em" align="center" src="https://mmerlyn-github-stats.vercel.app/api/top-langs/?username=mmerlyn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&count_private=true&include_all_commits=true&langs_count=8&hide=Jupyter%20Notebook,tex&v=3" />
 </a>
 <br/><br/></div>
